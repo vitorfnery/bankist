@@ -1,4 +1,4 @@
-# Bankist
+# Bankist 💸💸💸
 
 ![preview](./.github/preview.gif)
 
